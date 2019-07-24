@@ -1,0 +1,8 @@
+AlbAspNetCoreWebApp/bin/
+AlbAspNetCoreWebApp/obj/
+packages/
+*.user
+.vs/
+
+packages
+
